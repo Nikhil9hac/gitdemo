@@ -1,0 +1,8 @@
+this is version 1 of my project __ok :)
+this is new version ofpratice git tutorial changed by nikhil :)
+hello guys today i am use git diff and
+git diff --stage
+command
+thank you :)
+and its actually work its very fine :)
+and now i am directly coomit this file
